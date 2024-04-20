@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lavender200">#8692f7</color>
+    <color name="lavender500">#3D4587</color>
+    <color name="lavender700">#0B103A</color>
+    <color name="teal200">#54D3C4</color>
+    <color name="teal500">#04817D</color>
+</resources>

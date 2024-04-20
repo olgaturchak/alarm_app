@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="select_time">Select Time</string>
+    <string name="set_alarm">Set \nAlarm</string>
+    <string name="cancel_alarm">Cancel \nAlarm</string>
+    <string name="welcome_to_notification_activity">Welcome to \nNotification Activity</string>
+    <string name="set_time">Set Time</string>
+    <string name="time">time</string>
+    <string name="it_s_time_to_wake_up">It`s time to wake up</string>
+    <string name="stop_alarm">Stop Alarm</string>
+    <string name="set_new_alarm">Set new Alarm</string>
+</resources>
